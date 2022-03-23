@@ -1,0 +1,22 @@
+.container {
+  padding: 40px;
+  max-width: 800px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+img {
+    height: 130px;
+    width: 110px;
+    margin-bottom: 30px;
+}
+button {
+  background-color: #20363d;
+  border: none;
+  color: white;
+  padding: 15px 12px;
+  display: inline-block;
+  cursor: pointer;
+}
